@@ -11,18 +11,25 @@ This is a React application for user management using the Reqres API, implementi
 - npm
 
 ## Setup and Installation
-1. Clone the repository
-2. Navigate to the project directory
-3. Install dependencies:
+1. Open your terminal
+2. Create a new React project
+   ```
+   npx create-react-app employwise-user-management
+   ```
+3. Navigate to the project directory
+   ```
+   cd employwise-user-management
+   ```
+4. Install dependencies:
    ```
    npm install
    ```
-4. Install additional dependencies
+5. Install additional dependencies
    ```
    npm install axios react-router-dom
    ```
 
-5. Start the development server:
+6. Start the development server:
    ```
    npm start
    ```
